@@ -1,0 +1,10 @@
+Data not getting saved after ctrl+z while creating the file
+
+How to check if the file is commited 
+
+Processes not getting killed after Kill command
+
+How to create & use database
+
+Attach Cloudwatch on EC2
+Unable to launch instance via putty using the newly created VPC
